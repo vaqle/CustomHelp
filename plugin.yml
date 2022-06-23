@@ -1,0 +1,11 @@
+name: "Help"
+description: "Help Command Modifier"
+author: vaqle
+main: vale\help\Main
+api: 4.0.0
+version: 1.0.0
+
+commands:
+  xd:
+    description: "View the help list"
+    permission: "pocketmine.command.help"
