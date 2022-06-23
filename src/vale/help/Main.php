@@ -28,6 +28,6 @@ class Main extends PluginBase
 		};
 		$help = $command;
 		$help->setAliases(["help"]);
-		$map->register("xd", $help);
+		$map->register("xd", $help); //s.o to muq for the hack
 	}
 }
